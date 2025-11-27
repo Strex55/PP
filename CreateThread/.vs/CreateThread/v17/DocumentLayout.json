@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\CreateThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7F508-30A9-4700-8E0D-3C7043E6894C}|CreateThread.vcxproj|C:\\Users\\Nikita\\source\\repos\\CreateThread\\CreateThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13B7F508-30A9-4700-8E0D-3C7043E6894C}|CreateThread.vcxproj|solutionrelative:CreateThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateThread.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\CreateThread\\CreateThread.cpp",
+              "RelativeDocumentMoniker": "CreateThread.cpp",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\CreateThread\\CreateThread.cpp",
+              "RelativeToolTip": "CreateThread.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T12:26:59.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
