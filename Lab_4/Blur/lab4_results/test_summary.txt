@@ -1,0 +1,13 @@
+Test Configuration Summary 
+========================= 
+ 
+TEST A: 1 Core, 3 Threads, Priority: NORMAL NORMAL NORMAL 
+TEST B: 1 Core, 3 Threads, Priority: ABOVE_NORMAL NORMAL NORMAL 
+TEST C: 1 Core, 3 Threads, Priority: ABOVE_NORMAL NORMAL BELOW_NORMAL 
+TEST D: 2 Cores, 3 Threads, Priority: NORMAL NORMAL NORMAL 
+TEST E: 2 Cores, 3 Threads, Priority: ABOVE_NORMAL NORMAL NORMAL 
+TEST F: 2 Cores, 3 Threads, Priority: ABOVE_NORMAL NORMAL BELOW_NORMAL 
+TEST G: 3 Cores, 3 Threads, Priority: NORMAL NORMAL NORMAL 
+TEST H: 3 Cores, 3 Threads, Priority: ABOVE_NORMAL NORMAL NORMAL 
+TEST I: 3 Cores, 3 Threads, Priority: ABOVE_NORMAL NORMAL BELOW_NORMAL 
+TEST J: Sequential Processing 
