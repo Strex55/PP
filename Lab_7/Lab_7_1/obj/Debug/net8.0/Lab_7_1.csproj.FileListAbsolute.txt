@@ -1,0 +1,14 @@
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\bin\Debug\net8.0\Lab_7_1.exe
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\bin\Debug\net8.0\Lab_7_1.deps.json
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\bin\Debug\net8.0\Lab_7_1.runtimeconfig.json
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\bin\Debug\net8.0\Lab_7_1.dll
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\bin\Debug\net8.0\Lab_7_1.pdb
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.AssemblyInfoInputs.cache
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.AssemblyInfo.cs
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.csproj.CoreCompileInputs.cache
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.dll
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\refint\Lab_7_1.dll
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.pdb
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\Lab_7_1.genruntimeconfig.cache
+D:\Nikita\3_COURSE\PP\Lab_7\Lab_7_1\obj\Debug\net8.0\ref\Lab_7_1.dll

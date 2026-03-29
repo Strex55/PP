@@ -1,0 +1,8 @@
+﻿  Lab5.cpp
+D:\Nikita\3_COURSE\PP\Lab5\Lab5.cpp(181,10): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+D:\Nikita\3_COURSE\PP\Lab5\Lab5.cpp(181,10): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+D:\Nikita\3_COURSE\PP\Lab5\Lab5.cpp(187,11): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+D:\Nikita\3_COURSE\PP\Lab5\Lab5.cpp(187,11): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+D:\Nikita\3_COURSE\PP\Lab5\Lab5.cpp(203,40): warning C4312: приведение типов: преобразование из "const int" в "LPVOID" большего размера
+D:\Nikita\3_COURSE\PP\Lab5\Lab5.cpp(204,41): warning C4312: приведение типов: преобразование из "const int" в "LPVOID" большего размера
+  Lab5.vcxproj -> D:\Nikita\3_COURSE\PP\Lab5\x64\Debug\Lab5.exe

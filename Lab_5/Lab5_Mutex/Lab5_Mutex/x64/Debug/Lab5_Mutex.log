@@ -1,0 +1,11 @@
+﻿  Lab5_Mutex.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  (компиляция исходного файла "Lab5_Mutex.cpp")
+  
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(1,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(75,10): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(75,10): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(81,11): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(81,11): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(104,40): warning C4312: приведение типов: преобразование из "const int" в "LPVOID" большего размера
+D:\Nikita\3_COURSE\PP\Lab5_Mutex\Lab5_Mutex.cpp(105,41): warning C4312: приведение типов: преобразование из "const int" в "LPVOID" большего размера
